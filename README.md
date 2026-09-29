@@ -1,2 +1,2 @@
 # bash-scripts
-bassh scripts for QOL
+bash scripts for QOL
