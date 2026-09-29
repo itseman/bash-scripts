@@ -1,0 +1,6 @@
+#!/bin/bash
+
+while IFS= read -r url; do
+    axel "$url"
+done < "$1"
+
